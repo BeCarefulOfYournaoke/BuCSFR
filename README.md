@@ -39,7 +39,7 @@ conda activate BuCSFR
 
 # Training
 
-To train BucSFR , please run the following command in the [train.sh](train.sh). For example, to train BucSFR on the CIFAR100 dataset, run:
+To train BuCSFR , please run the following command in the [train.sh](train.sh). For example, to train BucSFR on the CIFAR100 dataset, run:
 
 ```sh
 CUDA_VISIBLE_DEVICES=0,3 python main.py --dist-url tcp://localhost:10009 --multiprocessing-distributed --world-size 1 --rank 0 
