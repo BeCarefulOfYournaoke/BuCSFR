@@ -3,7 +3,7 @@
 
 This repo contains PyTorch implementation of the BucSFR. BucSFR is a method that learns fine-grained representations form coarsely labeled datasets without any supervision at the fine-grained level. For more details please check our paper [BucSFR](https://iccv.thecvf.com/virtual/2025/poster/767).
 
-![](.\imgs\framework.png)
+![image](imgs/framework.png)
 
 
 
