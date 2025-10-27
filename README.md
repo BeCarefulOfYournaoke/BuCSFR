@@ -59,6 +59,13 @@ CUDA_VISIBLE_DEVICES=0,3 python main.py --dist-url tcp://localhost:10009 --multi
 If you find our code useful, please consider citing:
 
 ```markdown
-Please wait for the official report.
+@InProceedings{Shi_2025_ICCV,
+    author    = {Shi, Guanghui and Liang, Xuefeng and Li, Wenjie and Lin, Xiaoyu},
+    title     = {Learning Separable Fine-Grained Representation via Dendrogram Construction from Coarse Labels for Fine-grained Visual Recognition},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {870-879}
+}.
 ```
 
